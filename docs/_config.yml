@@ -22,7 +22,7 @@ title: Fowooza
 email: info@avodahsystems.com
 description: >- # this means to ignore newlines until "baseurl:"
   Anything about Life, Nature and Science.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/avodah" # the subpath of your site, e.g. /blog
 url: "https://owooza.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fowooza
 github_username:  owooza
